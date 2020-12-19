@@ -1,0 +1,87 @@
+#hero{
+  margin: auto;
+  width: 60%;
+  padding: 3rem;
+}
+
+img {
+  margin-top: 3rem;
+  width: 100%;
+}
+.unknown {
+  background-color: #000;
+  font: 'comic sans', san-serif;
+}
+
+.green {
+  background-color: #27C66B;
+}
+
+.cyan {
+  background-color: #34DADC;
+}
+
+.yellow {
+  background-color:#FBF15A;
+}
+
+.purple {
+  background-color: #A15AFB;
+}
+
+
+.magenta {
+  background-color: #FB5AE0;
+}
+
+.rose {
+  background-color:#D53647;
+}
+
+.blue {
+  background-color: #2D93D1;
+}
+
+.pastel-green {
+  background-color:#ADEA9E;
+}
+
+.berry {
+  background-color: #842454;
+}
+
+.indigo {
+  background-color: #1E2DC5;
+}
+
+.orange {
+  background-color: #EC943B;
+}
+
+
+
+.rock-salt {
+font-family: 'Rock Salt', cursive;
+}
+
+.pangolin {
+font-family: 'Pangolin', cursive;
+}
+
+.merienda {
+ font-family: 'Merienda', cursive;
+
+}
+
+.mali {
+  font-family: 'Mali', cursive;
+}
+
+.dancing-script {
+font-family: 'Dancing Script', cursive;
+}
+
+.amatic-sc {
+  font-family: 'Amatic SC', cursive;
+
+}
